@@ -6,11 +6,11 @@ This tool will install some of my hacking tools on my Github repository.
 #
 # INSTALLATION & USAGE
 
-    `$ git clone https://github.com/mkdirlove/ALL-INSTALLER`
-    `$ cd ALL-INSTALLER`
-    `$ chmod +x *`
-    `$ bash install.sh`
-    `$ bash all-installer.sh`   
+    $ git clone https://github.com/mkdirlove/ALL-INSTALLER
+    $ cd ALL-INSTALLER
+    $ chmod +x *
+    $ bash install.sh
+    $ bash all-installer.sh
 #
 # PREVIEW
 ![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/ALL-INSTALLER/blob/master/about.png)
